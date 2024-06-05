@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daariabaabaeva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m Loo10855okIng to collaborate on in 05122...jhhxc
+try:
+  result = 10 / 0
+except ZeroDivisionError:
+  print("Ошибка: деление на ноль")
