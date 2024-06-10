@@ -1,4 +1,4 @@
 try:
-  result = 10 / 3
+  result = 10 / 4
 except ZeroDivisionError:
   print("Ошибка: деление на ноль")
