@@ -1,5 +1,5 @@
 try:
-  result = 10 / 9
+  result = 10 / 10
 except ZeroDivisionError:
   print("Ошибка: деление на ноль")
   )
