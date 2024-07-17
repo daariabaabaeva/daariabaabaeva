@@ -1,5 +1,5 @@
 try:
-  result = 09 / 11
+  result = 09 / 14
 except ZeroDivisionError:
   print("Ошибка: деление на ноль")
   )
